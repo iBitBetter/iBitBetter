@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ibitbetter&show_icons=true&icon_color=805AD5&text_color=000&bg_color=ffffff&hide_title=true" />
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/wakatime?username=ibitbetter&layout=compact" alt="ibitbetter's wakatime stats" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/wakatime?username=bitbetter&layout=compact" alt="ibitbetter's wakatime stats" />
 
 - 👨‍💻 本职后端开发
 - ⚡ Vibe 全栈
